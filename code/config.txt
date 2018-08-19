@@ -1,10 +1,10 @@
-cookie:SCF=AmK2Y4prPCqtu-mFL3TE-r3ECYX8KzqHsfg3suEvmeEaHbKKVA2trx9hhk8G3OpGN2N7YY5sFXmAU85DoV8eDMY.; SUHB=0nl-6sngApy62D; _T_WM=cd0ceaa8f6c399cd38a762d55f544669; SUB=_2A2532dTGDeRhGeBN7VsX9ivJwjuIHXVVJfyOrDV6PUJbkdANLVT5kW1NRC7KbGkiO5UfhXilBjtKA2fXuetRg6C1; SSOLoginState=1524475030
-host:localhost
-user:root
-password:root3306
-db_name:weibo
-page:10
-ts:10
+cookie:
+host:
+user:
+password:
+db_name:
+page:
+ts:
 
 
 
