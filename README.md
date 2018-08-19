@@ -6,6 +6,7 @@
 
 
 修改config.txt即可运行
+
 cookie:     //用户cookie
 
 host:       //数据库主机
