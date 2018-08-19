@@ -5,6 +5,7 @@
 安装第三方库： pymql requests
 
 wbwz.py是采集微博中文章的信息
+
 wbzh.py是采集微博账号的信息
 
 修改config.txt即可运行
